@@ -1,6 +1,6 @@
 {
   "name": "@itrulia/fractal-component-status",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fractal plugin that allows you to set a status on the component and filtering them out if needed!",
   "main": "index.js",
   "scripts": {
