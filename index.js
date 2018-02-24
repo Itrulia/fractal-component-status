@@ -46,10 +46,9 @@ module.exports = function componentStatusParser(opts = {}) {
                     });
                 }
 
-                return {
-                    ...component,
-                    status: status
-                };
+                component.status = status;
+
+                return component;
             });
 
             if (errors.length) {
