@@ -1,7 +1,7 @@
 {
   "name": "@itrulia/fractal-component-status",
-  "version": "0.0.0",
-  "description": "Fractal plugin that allows you to create readmes for your variants.",
+  "version": "0.1.0",
+  "description": "Fractal plugin that allows you to set a status on the component and filtering them out if needed!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
